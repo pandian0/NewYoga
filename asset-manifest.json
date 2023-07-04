@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/NewYoga/static/css/main.e6f7c44d.css",
-    "main.js": "/NewYoga/static/js/main.60523e67.js",
+    "main.js": "/NewYoga/static/js/main.83e1b7e7.js",
     "static/js/787.3aa5f880.chunk.js": "/NewYoga/static/js/787.3aa5f880.chunk.js",
     "index.html": "/NewYoga/index.html",
     "main.e6f7c44d.css.map": "/NewYoga/static/css/main.e6f7c44d.css.map",
-    "main.60523e67.js.map": "/NewYoga/static/js/main.60523e67.js.map",
+    "main.83e1b7e7.js.map": "/NewYoga/static/js/main.83e1b7e7.js.map",
     "787.3aa5f880.chunk.js.map": "/NewYoga/static/js/787.3aa5f880.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6f7c44d.css",
-    "static/js/main.60523e67.js"
+    "static/js/main.83e1b7e7.js"
   ]
 }
